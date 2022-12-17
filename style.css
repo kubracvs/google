@@ -13,4 +13,18 @@ body{
     width: 100%;
     display: flex;
     justify-content:space-between;
+    align-items: center;
+    padding: 15px;
+}
+
+a{
+    color: black;
+    text-decoration: none;
+}
+
+.right{
+    display: flex;
+    align-items: center;
+    
+  
 }
